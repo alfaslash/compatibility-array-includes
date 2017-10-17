@@ -1,12 +1,12 @@
 if (![].includes) {
-    Array.prototype.includes = function (searchElement) {
+    Array.prototype.includes = function (searchElement, fromIndex) {
         'use strict';
         var O = Object(this);
         var len = parseInt(O.length) || 0;
         if (len === 0) {
             return false;
         }
-        var n = parseInt(arguments[1]) || 0;
+        var n = parseInt(fromIndex) || 0;
         var k;
         if (n >= 0) {
             k = n;
