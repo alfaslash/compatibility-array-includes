@@ -1,0 +1,22 @@
+{
+  "name": "array-includes",
+  "version": "1.0.0",
+  "description": "Polyfill for arrays method `includes`",
+  "main": "array-includes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfaslash/array-includes.git"
+  },
+  "author": "alfaslash (Artem Roshko)",
+  "license": " Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alfaslash/array-includes/issues"
+  },
+  "homepage": "https://github.com/alfaslash/array-includes#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
