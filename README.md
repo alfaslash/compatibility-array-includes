@@ -1,4 +1,5 @@
 # Polyfill for Array.includes()
+[![Build Status](https://travis-ci.org/alfaslash/array-includes.svg?branch=master)](https://travis-ci.org/alfaslash/array-includes)
 
 Polyfill for arrays method `inclides()` ([ECMAScript 2016 (ECMA-262)](http://www.ecma-international.org/ecma-262/7.0/#sec-array.prototype.includes)).
 
