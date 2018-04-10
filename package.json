@@ -1,6 +1,6 @@
 {
-  "name": "array-includes",
-  "version": "1.0.0",
+  "name": "compatibility-array-includes",
+  "version": "1.0.1",
   "description": "Polyfill for arrays method `includes`",
   "main": "array-includes.js",
   "scripts": {
