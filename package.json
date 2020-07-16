@@ -1,6 +1,6 @@
 {
   "name": "compatibility-array-includes",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Polyfill for arrays method `includes`",
   "main": "array-includes.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alfaslash/array-includes#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^26.1.0"
   }
 }
