@@ -1,6 +1,5 @@
 # Polyfill for Array.includes()
 [![Version](http://img.shields.io/npm/v/compatibility-array-includes.svg)](https://www.npmjs.org/package/compatibility-array-includes)
-[![Build Status](https://travis-ci.org/alfaslash/array-includes.svg?branch=master)](https://travis-ci.org/alfaslash/array-includes)
 
 [![NPM](https://nodei.co/npm/compatibility-array-includes.png)](https://www.npmjs.com/package/compatibility-array-includes)
 
