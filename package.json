@@ -1,5 +1,5 @@
 {
-  "name": "compatibility-array-includes",
+  "name": "@alfaslash/array-includes",
   "version": "1.0.6",
   "description": "Polyfill for arrays method `includes`",
   "main": "array-includes.js",
