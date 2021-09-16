@@ -18,5 +18,8 @@
   "homepage": "https://github.com/alfaslash/array-includes#readme",
   "devDependencies": {
     "jest": "27.2.0"
-  }
+  },
+  "publishConfig": {
+   "@alfaslash:registry": "https://npm.pkg.github.com"
+ }
 }
