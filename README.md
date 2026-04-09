@@ -1,13 +1,9 @@
 # Polyfill for Array.includes()
-[![Version](http://img.shields.io/npm/v/compatibility-array-includes.svg)](https://www.npmjs.org/package/compatibility-array-includes)
-
-[![NPM](https://nodei.co/npm/compatibility-array-includes.png)](https://www.npmjs.com/package/compatibility-array-includes)
-
-Polyfill for arrays method `inclides()` ([ECMAScript 2016 (ECMA-262)](http://www.ecma-international.org/ecma-262/7.0/#sec-array.prototype.includes)).
+Polyfill for arrays method `includes()` ([ECMAScript 2016 (ECMA-262)](https://www.ecma-international.org/ecma-262/7.0/#sec-array.prototype.includes)).
 
 ### Installation
 
-`npm i compatibility-array-includes`
+`npm i @alfaslash/array-includes`
 
 
 ### Usage

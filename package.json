@@ -8,14 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfaslash/array-includes.git"
+    "url": "git+https://github.com/alfaslash/compatibility-array-includes.git"
   },
   "author": "alfaslash (Artem Roshko)",
-  "license": " Apache-2.0",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/alfaslash/array-includes/issues"
+    "url": "https://github.com/alfaslash/compatibility-array-includes/issues"
   },
-  "homepage": "https://github.com/alfaslash/array-includes#readme",
+  "homepage": "https://github.com/alfaslash/compatibility-array-includes#readme",
+  "keywords": ["polyfill", "array", "includes", "es7", "ecmascript2016", "compatibility"],
+  "engines": {
+    "node": ">=6"
+  },
   "devDependencies": {
     "jest": "27.2.0"
   },
